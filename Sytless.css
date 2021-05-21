@@ -1,0 +1,247 @@
+body{
+    font-family: 'Lato', 'Arial', sans-serif;       
+}
+h1{
+   padding-top: 1rem; 
+}
+
+.div-class{
+    text-align: left;
+
+}
+
+.nav-bar{
+background-color:black;
+color: white;
+margin: auto;
+padding-bottom: 0.1rem;
+}
+.font{
+    font-family: 'Tomorrow', 'Arial', sans-serif;
+}
+
+.hero-pic{
+    padding-top: 1rem;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width:40%;
+    height:30%;
+ 
+}
+.nav-pic{
+    text-align: left;
+    width:100px;
+    height:90px;
+    margin: auto;
+    padding-left: 2rem;
+    padding-top: 1rem;
+
+}
+
+.background{
+    display: block;
+    height: 40%;
+    width: 100%;
+
+}
+.nav-bar .nav-ul{
+    text-align: right;
+}
+.nav-bar .nav-ul .link{
+text-decoration: none;
+list-style: none;
+display: inline;
+margin: auto;
+text-align: right;
+padding-right:2rem;
+color: white;
+}
+
+
+.nav-title{
+text-align: left;
+padding-left: 1rem;
+padding-bottom: 2rem;  
+}
+
+.link-active{
+text-decoration: none;
+list-style: none;
+}
+
+.Content1{
+background-color: grey;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+
+.footer{
+display: block;    
+background-color: black;
+text-align: center;
+padding-top: 5rem;
+padding-bottom: 5rem;
+color: white;
+}
+
+.link-1{
+color: white;
+text-decoration: none;
+list-style: none;
+}
+
+.sec-head1{
+text-align: center;
+
+}
+.section-dept{
+padding-left:9%;
+padding-right:9%;
+}
+.dash{  
+  color:orange;
+  display: block;
+  margin: auto;
+  width:1000px;
+  height:15%;
+  text-align: center;
+  padding-bottom: 1rem;  
+}
+.right{
+    padding-bottom: 1rem;
+    display: inline;
+    padding-top: 4rem;
+    margin: auto;
+    margin-top: 2rem;
+    text-align: left;
+}
+.shuttle{
+    width: 300px;
+    height:300px;
+    float: left;
+    padding-right: 3rem;
+    display:inline;
+}
+
+.section-2{
+    display: block;
+ 
+}
+.section-3{
+    padding-bottom: 6rem;
+
+}
+
+.sec-head2{
+    text-align: center;
+    padding-right: 20rem;
+
+}
+
+.sec-head3{
+    text-align: center;
+    padding-right: 5rem;
+
+}
+
+
+
+.section-4{
+    text-align:left;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+
+}
+
+.form-class{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.label-1{
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    margin-right: 4.5rem;
+}
+.label-2{
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+}
+.label-3{
+    padding-right: 1.5rem;
+    padding-bottom: 2rem;
+    margin-right: 4.5rem;
+}
+
+.label-4{
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+}
+
+.label-5{
+    
+    padding-bottom: 1rem;
+    margin-right: 1.3rem;
+    padding-left: 0.2re;
+}
+
+.label-6{
+    padding-left: 4rem;
+    padding-bottom: 1rem;
+}
+
+
+.mars{
+display: flexbox;
+flex-direction:row;
+text-align: center;
+}
+.sub1{
+    width: 280px;
+    height: 300px;
+    padding: 1rem;
+    margin-left: 3rem;
+    display: inline-block;
+    order: 1;
+    background-color:#D1D5DB;
+}
+.sub1:hover{
+    width: 350px;
+    height: 350px;
+    
+}
+
+.sub2{
+    width: 280px;
+    height: 300px;
+    padding: 1rem;
+    display: inline-block;
+    order: 2;
+    background-color:#D1D5DB;
+}
+
+
+.sub2:hover{
+    width: 350px;
+    height: 350px;
+    
+}
+
+.sub3{
+    width: 280px;
+    height: 300px;
+    padding: 1rem;
+    display: inline-block;
+    order: 3;
+    background-color:#D1D5DB;
+}
+
+.sub3:hover{
+
+    
+    width: 350px;
+    height: 350px;
+    
+}
